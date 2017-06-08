@@ -6,6 +6,7 @@ import {AboutComponent} from "./components/about.component";
 export const allAppComponents = [HomeComponent, AboutComponent];
 
 export const routes: Routes = [
+	{path: "post", component:PostComponent},
 	{path: "about", component: AboutComponent},
 	{path: "", component: HomeComponent},
 	{path: "**", redirectTo: ""}
