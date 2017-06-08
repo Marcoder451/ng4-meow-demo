@@ -7,4 +7,4 @@ import {Observable} from "rxjs";
 	templateUrl: "./templates/navbar.php"
 })
 
-export class NavbarComponent {}
+export class NavbarComponent {} NavbarComponent {}
