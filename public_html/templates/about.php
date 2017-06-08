@@ -17,3 +17,4 @@
 		</div>
 	</div>
 </main>
+<meow-footer></meow-footer>

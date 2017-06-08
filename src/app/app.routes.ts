@@ -2,6 +2,7 @@ import {RouterModule, Routes} from "@angular/router";
 import {HomeComponent} from "./components/home.component";
 import {AboutComponent} from "./components/about.component";
 import {NavbarComponent} from "./components/navbar.component";
+import {FooterComponent} from "./components/footer.component";
 
 
 
