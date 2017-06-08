@@ -4,7 +4,7 @@ import {Observable} from "rxjs";
 
 @Component({
 	selector: "meow-footer",
-	templateUrl: "./templates/about.php"
+	templateUrl: "./templates/footer.php"
 })
 
-export class AboutComponent {}
+export class FooterComponent {}
