@@ -1,6 +1,8 @@
 import {RouterModule, Routes} from "@angular/router";
 import {HomeComponent} from "./components/home.component";
 import {AboutComponent} from "./components/about.component";
+import {NavbarComponent} from "./components/navbar.component";
+
 
 
 export const allAppComponents = [HomeComponent, AboutComponent];
